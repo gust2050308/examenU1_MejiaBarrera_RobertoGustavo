@@ -1,0 +1,19 @@
+h1{
+    font-family: Arial;
+    text-align: center;
+}
+
+h2{
+    font-family: Arial;
+    text-align: center;
+}
+
+p{
+    font-family: Arial;
+    text-align: center;
+}
+
+body{
+    text-align: center;
+    background: color rgba( 0, 0, 128);
+}
